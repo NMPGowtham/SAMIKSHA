@@ -1,0 +1,17 @@
+/* src/index.css */
+@import "tailwindcss";
+
+
+/* small global tweaks */
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  @apply bg-gray-50;
+}
+
+/* make sure links have pointer cursor by default */
+a {
+  cursor: pointer;
+}
