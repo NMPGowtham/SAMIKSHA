@@ -7,7 +7,7 @@
 **Team ID:** VJITIH-15  
 **Team Name:** SAMIKSHA  
 
----
+----
 
 ## 💡 Proposed Solution
 We aim to build a **modular, multi-tier web application** for analyzing feedback comments.  
@@ -19,7 +19,7 @@ The key features include:
 - Summarize long comments into concise summaries.  
 - Provide a **web-based dashboard** for real-time visualization.  
 
----
+----
 
 ## ⚙️ Technical Approach
 - **Backend:** Python, Flask API  
@@ -28,7 +28,7 @@ The key features include:
 - **Visualization:** Matplotlib, WordCloud  
 - **Deployment:** Vercel  
 
----
+----
 
 ## ✅ Feasibility & Challenges
 1. **Misunderstood comments** → Sarcasm/complex language can confuse AI.  
@@ -36,7 +36,7 @@ The key features include:
 3. **AI dependency** → May miss important insights.  
 4. **Setup time** → Requires effort to train models initially.  
 
----
+----
 
 ## 🌍 Impact & Benefits
 - ⏳ **Saves Time:** Handles thousands of comments quickly.  
@@ -45,7 +45,7 @@ The key features include:
 - ✂️ **Quick Summaries:** Long inputs → concise insights.  
 - 📊 **Scalable:** Works efficiently even with huge volumes of data.  
 
----
+----
 
 ## 📊 Dataset & References
 - **Dataset:** [Twitter Entity Sentiment Analysis – Kaggle](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)  
@@ -54,7 +54,7 @@ The key features include:
 - **NLTK Installation:** [NLTK Docs](https://www.nltk.org/install.html)  
 - **Research Paper:** [Sentiment Analysis in Social Media Using Deep Learning](https://ijisae.org/index.php/IJISAE/article/view/5557)  
 
----
+----
 
 ## 🚀 How to Run
 
@@ -72,7 +72,7 @@ npm install
 npm rundev
 ```
 
----
+----
 
 ## 👥 Team – SAMIKSHA
 - Team ID: VJITIH-15  
